@@ -89,3 +89,5 @@ This Power BI dashboard provides detailed insights into car sales, covering vari
 This dashboard effectively summarizes car sales performance metrics for data-driven decision-making. Using the dashboard, businesses can optimize strategies based on sales patterns, popular car types, and dealer performance.
 
 ## Dasboard Snapshot: ![Image](https://github.com/user-attachments/assets/7ce432e0-cc69-4034-ac05-382509c92f4f)
+
+## Reports Snapshot: ![Image](https://github.com/user-attachments/assets/184fd57d-6957-4af6-a25f-4a907d160987)
